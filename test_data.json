@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "labels_weight": {
+            "Equity": 1,
+            "Trade": 2
+        },
+        "message": "Hi, I'm John Doe from company1. I'm interested in your product. Can you send me more information?",
+        "from": "john",
+        "company": "company1"
+    },
+    {
+        "id": 2,
+        "labels_weight": {
+            "Fixed Income": 3,
+            "Quote": 2
+        },
+        "message": "I'm interested in your product. Can you send me more information?",
+        "from": "David",
+        "company": "company1"
+    },
+    {
+        "id": 3,
+        "labels_weight": {
+            "Equity": 1,
+            "Trade": 2,
+            "Fixed Income": 3
+        },
+        "message": "I'm interested in your product. Can you send me more information?",
+        "from": "David",
+        "company": "company1"
+    }
+]
